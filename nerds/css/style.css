@@ -1,0 +1,49 @@
+/* STYLESHEET*/
+
+header {
+    background: white;
+    color:black;
+}
+
+header .intro-text .name {
+    font-size: 2em;
+    color: #2c3e50;
+}
+
+.skills2 {
+    font-size: 1.25em;
+}
+
+
+section {
+    padding: 20px 0;
+}
+
+section.success {
+    background: #2c3e50;
+    color: #fff;
+}
+@media (min-width: 768px){
+.navbar-custom.affix {
+    padding: 0px 0;
+}
+
+
+@media (min-width: 1200px) {
+.rowFooter {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+@media (max-width: 1199px) {
+div#frank {
+    margin-top: 80px;
+}
+
+.row {
+    margin-top: 10px;
+}
+
+
+
