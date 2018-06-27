@@ -1,5 +1,4 @@
-A project for LIA 1. 
-Javascript, jQuery, Bootstrap, Less
+# A project for LIA 1. Javascript, jQuery, Bootstrap, Less
 
 Live preview:
 http://www.demirovic.se/nerds
